@@ -1,4 +1,4 @@
-# BIM-calculator-app 
+# BIM-calculator-app
 Building Information Modeling, windows based app made with python tkinter, 
 
 
