@@ -19,4 +19,4 @@ Features of app:
 - Best starter for learning Tkinter
 - Teaches about the alignment, color, button click effect and many other..
 
-If You are new or learning Tkinter request to fork and update on base of You
+### If You are new or learning Tkinter request to fork and update on base of You
