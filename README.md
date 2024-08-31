@@ -15,4 +15,8 @@ Features of app:
 
 - Clean Ui
 - Fast and efficient Calculation of BIM
-- Well structured Code 
+- Well structured Code with Important Comment
+- Best starter for learning Tkinter
+- Teaches about the alignment, color, button click effect and many other..
+
+If You are new or learning Tkinter request to fork and update on base of You
