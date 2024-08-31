@@ -15,4 +15,4 @@ Features of app:
 
 - Clean Ui
 - Fast and efficient Calculation of BIM
-- 
+- Well structured Code 
