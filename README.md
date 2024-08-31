@@ -8,3 +8,11 @@ Its simple use of tkinter Bim calculator that calculates by taking your height a
 This project was to help me out where I learned add, place, maintain the button, label, text area,
 
 Also to add some color and style that helped me to paratice more on app building.
+
+
+
+Features of app:
+
+- Clean Ui
+- Fast and efficient Calculation of BIM
+- 
